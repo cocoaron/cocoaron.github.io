@@ -2,51 +2,42 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aaron Kim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st November 1999
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraduate
+      institution: Gachon University
+      year: 2018-2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Majored in Computer Science
+    - title: Undergraduate
+      institution: Sung Kyun Kwan University
+      year: 2022-Current
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Computer Science
 
 - title: Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+      institution: Sung Kyun Kwan University and Mechasolution
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - developed web crawler using BS4
+        - developed web crawler using xhr
+        - developed backend of web platform using FastAPI
+    - title: Researcher & Developer
+      institution: SKKRYPTO
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Researched many blockchain projects based on different subgenres
+        - Studied and developed Solidity toy projects
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -71,27 +62,26 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Web App Innovation Contest 2nd Award 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Blockchain
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Interested in developing various smart contracts
+        - Interested in researching security vulnerabilities of blockchain
+    - title: Web & App Platform
       items:
-        - Description 1.
-        - Description 2.
+        - Interested in developing various API
+        - Interested in developing Fronted stack
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Drawings:</u> You can refer to my instagram page
+    - <u>Music:</u> I enjoy many genres of music
+    - <u>Weight training:</u> I enjoy going to gym
+    
