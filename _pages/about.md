@@ -6,7 +6,7 @@ subtitle: SKKU, Seoul, Korea. <a ref="mailto:cocoaron@g.skku.edu">cocoaron@g.skk
 
 profile:
   align: right
-  image: 12345.jpg
+  image: 1234566.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
